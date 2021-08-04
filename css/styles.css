@@ -1,0 +1,132 @@
+body{
+    padding: 0px;
+    margin: 0px; 
+    background: #10943A;
+    border: 0px;
+    padding: 0%;
+    
+}
+.barraNav{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    border-bottom-left-radius: 5px;
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    background-color: #16C74E;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    justify-content: flex-end;
+    font-family: monospace;    
+}
+
+.botones{
+    color: #1D472B;
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+    border: 1rem;
+    font-size: 1.5rem;
+
+
+}
+
+.botones:hover{
+    background: #1D472B;
+    color: #55D07C;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.img-fluid{
+    width: 2rem;
+    height: 2rem;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.carFront{
+    width: 100%;
+    height: 100%;
+    border-radius: 7px;
+    border: solid;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.imageDesc{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.tituloProyectos{
+    font-family: monospace;
+    display: flex;    
+    justify-content: flex-end;
+    background-color: #55D07C;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.nuestrosProyectos{
+    font-size: 3rem;
+    display:flex;    
+    
+}
+
+.ourProyects{
+    font-family: monospace;
+    display: flex;    
+    justify-content: center;
+    background-color: #55D07C;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    flex-direction: row;
+    justify-content: space-around ;
+    flex-wrap: wrap;
+
+}
+
+
+.cubo{
+    width: 10rem;
+    height: 10rem;
+    background-color: #83FF3E;
+    border-radius: 10px;
+    border-color: gray black;
+    border-style: groove;
+    border-width: 4px;
+    font-family: monospace;
+    margin: 2rem;
+    display: flex;    
+    justify-content: center;
+    
+    font-size: 2rem;
+}
+
+.rightsSignature{
+    list-style: none;
+    color: #16C74E;
+    font-family: monospace;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.derechos{
+    margin: 1rem;
+    font-size: 1rem;
+}
